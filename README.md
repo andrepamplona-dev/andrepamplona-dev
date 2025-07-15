@@ -7,8 +7,8 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** no **Instituto Feder
 ## 🚀 Sobre Mim
 
 - 🎓 **Formação:**  
-  - Técnico em Informática — IFPB Campus Sousa  
-  - Graduando em Análise e Desenvolvimento de Sistemas — IFPB Campus Cajazeiras
+  Técnico em Informática - IFPB Campus Sousa;  
+  Graduando em Análise e Desenvolvimento de Sistemas - IFPB Campus Cajazeiras.
 
 - 🔬 **Pesquisa & Extensão:**  
   Membro do projeto de extensão **“Repetição Espaçada em Jogos Digitais: Uma Abordagem Eficiente para o Ensino de Lógica de Programação”**, focado em metodologias inovadoras para potencializar o aprendizado.
