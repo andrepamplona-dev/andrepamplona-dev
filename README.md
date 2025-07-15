@@ -1,6 +1,6 @@
-# Francisco André Martins Pamplona Filho
+# 👋 Olá, eu sou **André Pamplona**
 
-👋 Olá! Eu sou o André, estudante de **Análise e Desenvolvimento de Sistemas** pelo **Instituto Federal da Paraíba (IFPB) - Cam
+Atualmente curso **Análise e Desenvolvimento de Sistemas** no **Instituto Federal da Paraíba (IFPB) - Campus Cajazeiras**, e sou Técnico em Informática formado pelo **IFPB - Campus Sousa**.
 
 ---
 
