@@ -27,13 +27,13 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** no **Instituto Feder
 
 ---
 
-## 📂 Projetos
+## 📂 Projetos em andamento
 
 - 🎮 **Repetição Espaçada em Jogos Digitais:**  
   Uma abordagem eficiente para o ensino de lógica de programação através de jogos digitais.
 
 - 🌐 **Website Pessoal:**  
-  Projeto de site pessoal desenvolvido para apresentar meu portfólio, trajetória acadêmica e projetos em design e desenvolvimento.
+  Projeto de site pessoal com intuito de apresentar meu portfólio, trajetória acadêmica e projetos em design e desenvolvimento.
 
 ---
 
