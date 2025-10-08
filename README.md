@@ -11,7 +11,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** no **Instituto Feder
   Graduando em Análise e Desenvolvimento de Sistemas - IFPB Campus Cajazeiras.
 
 - 🔬 **Pesquisa & Extensão:**  
-  Membro do projeto de extensão **“Repetição Espaçada em Jogos Digitais: Uma Abordagem Eficiente para o Ensino de Lógica de Programação”**, focado em metodologias inovadoras para potencializar o aprendizado.
+  Membro do projeto de pesquisa **“Repetição Espaçada em Jogos Digitais: Uma Abordagem Eficiente para o Ensino de Lógica de Programação”**, focado em metodologias inovadoras para potencializar o aprendizado.
 
 - 🎨 **Designer:**  
   Crio artes e materiais digitais usando **Illustrator, Canva, CapCut e Figma**.
